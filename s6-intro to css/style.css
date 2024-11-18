@@ -1,0 +1,74 @@
+#mainheading{
+    color: blue;
+    background-color: bisque;
+    text-align: center;
+    font-size: 4rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow: 10px 10px 10px white;
+    box-shadow: 10px 10px 10px black;
+    border: 10px solid orangered;
+    border-radius: 35px;
+}
+#Amaravati{
+    width: 200px;
+    height: 200px;
+}
+#Hyderabad{
+    width: 200px;
+    height: 200px;
+}
+#Chennai{
+    width: 200px;
+    height: 200px;
+}
+#Banglore{
+    width: 200px;
+    height: 200px;
+}
+
+#Amaravati{
+    color: red;
+    background-color: aquamarine;
+    text-align: center;
+    font-size: 3rem;
+    border: 5px black;
+    border-radius: 20px;
+}
+#description{
+    color: darkmagenta;
+}
+#Hyderabad{
+    color: aqua;
+    background-color: blanchedalmond;
+    text-align: center;
+    font-size: 3rem;
+    border:5px black;
+    border-radius:20px ;
+
+}
+#description{
+    color: darkmagenta;
+}
+#chennai{
+    color: blueviolet;
+    background-color:burlywood;
+    text-align: center;
+    font-size: 3rem;
+    border: 5px black;
+    border-radius: 20px;
+}
+#description{
+    color: darkmagenta;
+}
+#banglore{
+    color: brown;
+    background-color: bisque;
+    text-align: center;
+    font-size: 3rem ;
+    border:5px black ;
+    border-radius:20px ;
+}
+#description{
+    color: darkmagenta;
+
+}
